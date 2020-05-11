@@ -1,0 +1,11 @@
+C:\Users\pujam\Documents\Vb\kuesioner\kuesioner\bin\Debug\kuesioner.exe
+C:\Users\pujam\Documents\Vb\kuesioner\kuesioner\bin\Debug\kuesioner.pdb
+C:\Users\pujam\Documents\Vb\kuesioner\kuesioner\bin\Debug\kuesioner.xml
+C:\Users\pujam\Documents\Vb\kuesioner\kuesioner\obj\Debug\kuesioner.vbprojAssemblyReference.cache
+C:\Users\pujam\Documents\Vb\kuesioner\kuesioner\obj\Debug\kuesioner.Form1.resources
+C:\Users\pujam\Documents\Vb\kuesioner\kuesioner\obj\Debug\kuesioner.Resources.resources
+C:\Users\pujam\Documents\Vb\kuesioner\kuesioner\obj\Debug\kuesioner.vbproj.GenerateResource.cache
+C:\Users\pujam\Documents\Vb\kuesioner\kuesioner\obj\Debug\kuesioner.exe
+C:\Users\pujam\Documents\Vb\kuesioner\kuesioner\obj\Debug\kuesioner.xml
+C:\Users\pujam\Documents\Vb\kuesioner\kuesioner\obj\Debug\kuesioner.pdb
+C:\Users\pujam\Documents\Vb\kuesioner\kuesioner\obj\Debug\kuesioner.Form2.resources
